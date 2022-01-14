@@ -1,0 +1,4 @@
+git reset --soft HEAD~1
+git commit --amend
+
+git stash
